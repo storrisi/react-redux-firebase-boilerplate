@@ -14,18 +14,23 @@ react-hot-loader
 ```
 app/
   README.md
-  node_modules/
-  package.json
   public/
     index.html
     favicon.ico
   src/
-    App.css
-    App.js
-    App.test.js
+    actions/
+    assets/
+    components/
+    containers/
+      App/
+        App.js
+        App.css
+        index.js
+    reducers/
+    services/
+    utils/
     index.css
     index.js
-    logo.svg
 ```
 
 ## Available Scripts

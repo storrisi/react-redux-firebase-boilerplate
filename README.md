@@ -1,10 +1,9 @@
-Basic React starter using:
+## Basic React starter using:
 
 ```
 redux
 redux-thunk
 react-router
-firebase
 material-ui
 prettier
 css-modules

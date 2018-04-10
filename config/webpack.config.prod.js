@@ -151,6 +151,11 @@ module.exports = {
             options: {
               
               compact: true,
+              cacheDirectory: true,
+              plugins: [
+                'react-hot-loader/babel'
+              ]
+
             },
           },
           // The notation here is somewhat confusing.

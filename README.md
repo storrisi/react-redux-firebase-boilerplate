@@ -1,3 +1,15 @@
+Basic React starter using:
+
+```
+redux
+redux-thunk
+react-router
+firebase
+material-ui
+prettier
+css-modules
+react-hot-loader
+```
 ## Folder Structure
 
 ```

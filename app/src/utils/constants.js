@@ -1,1 +1,1 @@
-export const apiURL = 'https://react-expense-tracker-api.herokuapp.com/';
+export const apiURL = 'http://www.mocky.io/v2';

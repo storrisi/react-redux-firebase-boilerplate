@@ -1,5 +1,5 @@
 {
-  "name": "SidWeb",
+  "name": "snowit_site",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -69,6 +69,7 @@
     "eslint-plugin-react": "7.4.0",
     "extract-text-webpack-plugin": "3.0.2",
     "file-loader": "1.1.5",
+    "firebase": "^4.12.1",
     "fs-extra": "3.0.1",
     "html-webpack-plugin": "2.29.0",
     "immutable": "^3.8.2",
@@ -89,6 +90,7 @@
     "react-redux-firebase": "^2.0.6",
     "react-router-dom": "^4.2.2",
     "redux": "^3.7.2",
+    "redux-immutable": "^4.0.0",
     "redux-thunk": "^2.2.0",
     "resolve": "1.6.0",
     "style-loader": "0.19.0",
@@ -104,6 +106,7 @@
     "jsdoc": "^3.5.5",
     "lint-staged": "^7.0.4",
     "prettier": "^1.11.1",
+    "react-hot-loader": "^4.0.1",
     "redux-devtools-extension": "^2.13.2",
     "redux-logger": "^3.0.6"
   },

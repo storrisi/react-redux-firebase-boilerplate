@@ -1,0 +1,23 @@
+{
+  "env": {
+    "es6": true,
+    "browser": true,
+    "jest": true
+  },
+  "parser": "babel-eslint",
+  "extends": ["prettier", "plugin:flowtype/recommended"],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 6
+  },
+  "plugins": ["prettier", "flowtype"],
+  "settings": {
+    "flowtype": {
+      "onlyFilesWithFlowAnnotation": true
+    }
+  },
+  "rules": {
+    "prettier/prettier": "error",
+    "no-console": 1
+  }
+}

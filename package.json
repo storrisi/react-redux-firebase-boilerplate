@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "eslint-plugin-flowtype": "^4.3.0",
     "flow-bin": "^0.106.3",
     "react-hot-loader": "^4.12.12",
     "redux-devtools-extension": "^2.13.8",
